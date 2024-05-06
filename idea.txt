@@ -1,0 +1,6 @@
+momentum based platformer
+
+2d, movement similar to tribes ascend but 2d(you can move, jetpack and slide)
+
+rain raises the level of water.
+you have to reach the top to activate the super water purifier device
